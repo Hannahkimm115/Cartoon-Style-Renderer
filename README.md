@@ -4,7 +4,7 @@ A simple cartoon rendering tool using OpenCV bilateral filter
 
 ## Demo
 ### Success Case (잘 된 예시)
-![Success](./success.jpg)
+![Success Case](./success.jpg.jpg)
 - 루피 피규어의 외곽선이 뚜렷하게 추출되고 색상이 단순화됨.
 
 ### Failure Case (잘 안 된 예시)
